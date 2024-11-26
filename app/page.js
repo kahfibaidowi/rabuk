@@ -50,7 +50,7 @@ const Page=()=>{
                                     <FiMapPin/>
                                     <span className='ms-1 fw-medium'>Sleman, Yogyakarta</span>
                                 </div>
-                                <span className='fs-14px text-white-50'>Rabu, 15 Juni 2022 09:41</span>
+                                <span className='fs-14px text-white-50'>Jum'at, 15 November 2024 09:41</span>
                             </div>
                             <div className='d-flex flex-column align-items-center ms-3'>
                                 <div className='d-flex align-items-center fs-20px'>
@@ -138,7 +138,7 @@ const Page=()=>{
                                     <div className='d-flex flex-column'>
                                         <h5 className='fs-18px fw-semibold'><span className='text-success'>Padi</span> &nbsp; Raja Lele</h5>
                                         <div className='d-flex flex-column fs-14px text-body-tertiary'>
-                                            <span className='text-truncate'>Ditanam 23 Januari 2021</span>
+                                            <span className='text-truncate'>Ditanam 23 Oktober 2024</span>
                                             <span className='text-truncate'><FiCalendar/> &nbsp; 1 Bulan</span>
                                             <span className='text-truncate'><FiMapPin/> &nbsp; Sawah Cangkringan</span>
                                         </div>
@@ -166,7 +166,7 @@ const Page=()=>{
                                     <div className='d-flex flex-column'>
                                         <h5 className='fs-18px fw-semibold'><span className='text-success'>Padi</span> &nbsp; IR64</h5>
                                         <div className='d-flex flex-column fs-14px text-body-tertiary'>
-                                            <span className='text-truncate'>Ditanam 15-12-2021</span>
+                                            <span className='text-truncate'>Ditanam 15-11-2024</span>
                                             <span className='text-truncate'><FiCalendar/> &nbsp; 4 Bulan 20 Hari</span>
                                             <span className='text-truncate'><FiMapPin/> &nbsp; Sawah Cangkringan</span>
                                         </div>

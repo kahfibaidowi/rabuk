@@ -64,7 +64,7 @@ const Page=()=>{
                         <span className='mb-1'>Nama Lahan : Pamali 3</span>
                         <span className='mb-1'>Tanaman : Bawang Merah - Umbi</span>
                         <span className='mb-1'>Luas Lahan : 5000 Meter</span>
-                        <span className='mb-1'>Tanggal Pengecekan : Rabu, 29 Juni 2022</span>
+                        <span className='mb-1'>Tanggal Pengecekan : Selasa, 19 November 2024</span>
                     </div>
                     <div className='mb-4'>
                         <span className='fw-semibold'>Berdasarkan hasil analisa Jinawi, Lahan ini membutuhkan :</span>
